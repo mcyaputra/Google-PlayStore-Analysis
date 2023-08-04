@@ -9,9 +9,13 @@ You are welcome to follow along to practice your basic Python skill in:
 
 There are 2 files in this repository:
 
-1. Python notebook (.ipynb file) containing codes that I used to explore the dataset
-2. Project Summmary (PDF file) containing: 
+1. [Python notebook] (.ipynb file) containing codes that I used to explore the dataset
+2. [Project Summmary] (PDF file) containing: 
+
 -Summary of the dataset
+
 -Business question
+
 -Details and explanation of data exploration, cleaning, preparing and visualization phases
+
 -Conclusion

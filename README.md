@@ -9,8 +9,8 @@ You are welcome to follow along to practice your basic Python skill in:
 
 There are 2 files in this repository:
 
-1. [Python notebook] (/data_analysis.ipynb) containing codes that I used to explore the dataset
-2. [Project Summmary] (/project_report.pdf) containing: 
+1. [Python notebook](/data_analysis.ipynb) containing codes that I used to explore the dataset
+2. [Project Summmary](/project_report.pdf) containing: 
 
 -Summary of the dataset
 

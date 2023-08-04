@@ -30,6 +30,6 @@ I would love to hear feedbacks or ideas from you! Or just simply connect and cha
 </a>
 
 <a href="https://github.com/mcyaputra">
-    <img align="left" width="22[x" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 </a>

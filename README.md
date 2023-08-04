@@ -9,8 +9,8 @@ You are welcome to follow along to practice your basic Python skill in:
 
 There are 2 files in this repository:
 
-1. [Python notebook](/data_analysis.ipynb) containing codes that I used to explore the dataset
-2. [Project Summmary](/project_report.pdf) containing: 
+1. [Python notebook](/data_analysis.ipynb) containing steps and codes used to explore the dataset
+2. [Project report](/project_report.pdf) pdf file containing: 
 
 -Summary of the dataset
 
@@ -19,3 +19,12 @@ There are 2 files in this repository:
 -Details and explanation of data exploration, cleaning, preparing and visualization phases
 
 -Conclusion
+
+# Feedback/Ideas? Lets connect!
+
+I would love to hear feedbacks or ideas from you! Or just simply connect and chat, feel free to contact me on:
+
+<a href="https://www.linkedin.com/in/michaelyaputra/">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+
+

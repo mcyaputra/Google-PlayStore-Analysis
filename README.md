@@ -2,9 +2,9 @@
 
 >Hi everyone! In this opportunity, we will be using Python, Pandas and Seaborn to analyze [Google PlayStore Apps dataset](https://github.com/mcyaputra/Files/blob/main/googleplaystore.csv)
 
-You are welcome to follow along to practice your basic Python skill in:
-1. Exploring
-2. Cleaning and preparing
+This is a simple data exploration and analysis using python, suitable for new starters who are learning python to explore datasets, you are welcome to follow along to practice basic Python skill in:
+1. Exploring dataset
+2. Cleaning and preparing dataset
 3. Visualizing data to understand and identify patterns in the dataset
 
 There are 2 files in this repository:
@@ -20,7 +20,7 @@ There are 2 files in this repository:
 
 -Conclusion
 
-# Feedback/Ideas? Lets connect!
+## Feedback/Ideas? Lets connect!
 
 I would love to hear feedbacks or ideas from you! Or just simply connect and chat, feel free to contact me on:
 

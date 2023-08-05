@@ -20,6 +20,14 @@ There are 2 files in this repository:
 
 -Conclusion
 
+## Steps:
+
+1. Download [Python notebook](/data_analysis.ipynb)
+2. You can run the notebook either using local machine (VScode, PyCharm etc) or using Google Colab
+3. Run the code block one by one from the top, dataset will be downloaded directly from my Github page when you run the 2nd code block
+4. Download the [Project report](/project_report.pdf) for more detailed explanation of each code blocks 
+5. Feel free to edit/add/delete any of those steps for your own exploration
+
 ## Feedback/Ideas? Lets connect!
 
 I would love to hear feedbacks or ideas from you! Or just simply connect and chat, feel free to contact me on:

@@ -20,7 +20,7 @@ There are 2 files in this repository:
 
 -Conclusion
 
-## 👩‍💻 Steps:
+## ⚙️ Steps:
 
 1. Download [Python notebook](/data_analysis.ipynb)
 2. You can run the notebook either using local machine (VScode, PyCharm etc) or using Google Colab
